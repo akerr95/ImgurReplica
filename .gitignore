@@ -1,5 +1,6 @@
 #Dependency Folders
 node_modules
+npm-debug
 
 #Random Pics
 public/upload
